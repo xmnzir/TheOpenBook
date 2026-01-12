@@ -1,0 +1,20 @@
+# Core App & UI
+streamlit>=1.30.0
+
+# Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+python-dateutil>=2.8.2
+
+# Visualization
+matplotlib>=3.7.0
+
+# Machine Learning & Analytics
+scikit-learn>=1.3.0        # Classification, anomaly detection
+statsmodels>=0.14.0       # Time-series forecasting (finance-grade)
+
+# AI / LLM Layer
+openai>=1.0.0              # LLM narratives & explanations (optional / swappable)
+
+# Validation & Schemas
+pydantic>=2.0.0            # Strong schema & data validation
