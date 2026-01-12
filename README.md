@@ -87,5 +87,5 @@ The PoC demonstrates value with a **minimal but complete financial loop**:
 
 1. Clone the repository:  
    ```bash
-   [git clone https://github.com/your-org/open-account.git](https://github.com/xmnzir/TheOpenBook.git
+   git clone https://github.com/your-org/open-account.git](https://github.com/xmnzir/TheOpenBook.git
 
